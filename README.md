@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Bhanu Prakash Bikkanuri
 
-<!--
-**BhanuBikkanuri-cell/BhanuBikkanuri-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Data Science student at IIIT Nagpur  
+📊 Interested in Data Analytics, Business Analytics, and BI  
+🛠 Skills: Excel, Power BI, Python, SQL, Data Visualization  
 
-Here are some ideas to get you started:
+## 🔗 Connect with me
+- LinkedIn: https://www.linkedin.com/in/bhanu-bikkanuri-a52721394/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+### 📈 Formula 1 Pit Stop Performance Analysis (Excel)
+- Analyzed pit stop data to evaluate team efficiency and driver consistency
+- Built pivot tables and dashboards to identify performance trends
+
+### 📊 Business Performance Dashboard (Power BI)
+- Designed interactive Power BI dashboard with KPIs
+- Used Power Query and DAX for data transformation and measures
+
+### 🤖 ByteBrain – AI-Powered Personalized Learning Platform
+- Group project
+- Role: Authentication & User Management
+- Technologies: Node.js, MongoDB, JWT
+
+## 🚀 Goals
+- Build strong real-world analytics projects
+- Improve Python and SQL skills
+- Prepare for Data Analyst / BI roles
