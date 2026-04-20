@@ -1,115 +1,107 @@
-# Hi, I'm Bhanu Prakash Bikkanuri
+Hi, I'm Bhanu Prakash Bikkanuri
 
-B.Tech Data Science student at IIIT Nagpur with a strong interest in Data Analytics, Business Intelligence, and data-driven decision making. I enjoy transforming raw datasets into meaningful insights through analysis, visualization, and interactive dashboards.
+B.Tech Data Science student at IIIT Nagpur with a strong foundation in Data Analytics, Business Intelligence, and Machine Learning. I enjoy transforming structured datasets into meaningful insights through analysis, visualization, and interactive dashboards.
 
-I am currently building projects using Excel, Power BI, and Tableau while strengthening my programming skills in Python and SQL.
+I have worked on real-world projects involving large datasets, forecasting models, and KPI dashboards using Python, SQL, Power BI, and Tableau.
 
----
+Skills
 
-## Skills
+Data Analysis & Visualization
 
-**Data Analysis & Visualization**
+Microsoft Excel (Advanced)
+Power BI
+Tableau
 
-* Microsoft Excel (Advanced)
-* Power BI
-* Tableau
+Programming & Querying
 
-**Programming & Querying**
+Python
+SQL
 
-* Python
-* SQL
+Data Skills
 
-**Data Skills**
+Data Cleaning
+Exploratory Data Analysis (EDA)
+Feature Engineering
+Time Series Analysis
+KPI Analysis
 
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Dashboard Development
-* Data Visualization
-* KPI Analysis
+Tools
 
-**Tools**
+Power Query
+DAX
+Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Git & GitHub
+MS Office
+Projects
+Sales Forecasting & Business Insights Dashboard (Python, ML, Power BI)
 
-* Power Query
-* DAX
-* Git & GitHub
-* MS Office
-
----
-
-## Projects
-
-### Netflix Content Analysis Dashboard (Tableau)
-
-Developed an interactive Tableau dashboard analyzing Netflix movies and TV shows across multiple dimensions including genre, country, and release year.
+Developed a time-series forecasting system and interactive dashboard to analyze sales performance.
 
 Key features:
 
-* Genre distribution visualization
-* Content growth trends across years
-* Movie vs TV show comparison
-* Interactive filters for dynamic exploration
+Built Random Forest model with lag-based feature engineering
+Analyzed 1M+ records to identify trends and seasonality
+Compared actual vs predicted sales using Power BI
+Identified promotion-driven demand patterns
+Business KPI Dashboard (Power BI)
+
+Created a business intelligence dashboard to monitor KPIs and revenue trends.
+
+Key features:
+
+Data transformation using Power Query
+Calculated metrics using DAX
+KPI visualizations for business insights
+Interactive filtering for performance tracking
+Netflix Content Analysis Dashboard (Tableau)
+
+Analyzed Netflix content across genres, countries, and timelines.
+
+Key features:
+
+Genre distribution visualization
+Content growth trends across years
+Movie vs TV show comparison
+Interactive filters for dynamic exploration
 
 Repository:
 https://github.com/BhanuBikkanuri-cell/netflix-tableau-dashboard
 
----
+Retail Sales Performance Analysis (Excel)
 
-### Business Performance Dashboard (Power BI)
-
-Created a business intelligence dashboard to monitor key performance indicators and revenue trends.
-
-Key features:
-
-* Data transformation using Power Query
-* Calculated metrics using DAX
-* KPI visualizations
-* Interactive slicers for business insights
-
----
-
-### Formula 1 Pit Stop Performance Analysis (Excel)
-
-Analyzed Formula 1 pit stop data to evaluate team efficiency and driver performance.
+Analyzed retail sales data to evaluate product performance and revenue distribution.
 
 Key work:
 
-* Data cleaning and structuring
-* Pivot tables for performance comparison
-* Dashboard visualizations for trend analysis
+Data cleaning and structuring
+Pivot tables for performance comparison
+Dashboard visualizations for trend analysis
+Identified seasonal demand patterns
+AI Conversational Agent with RAG (Python)
 
----
+Developed an AI-based conversational system using retrieval-augmented generation.
 
-### ByteBrain – AI Powered Personalized Learning Platform
+Key features:
 
-Collaborated on a team project to develop an AI-powered learning platform.
+Implemented intent classification and workflow automation
+Built context-aware response system using structured data
+Designed modular architecture for scalability
+Developed lead capture and validation system
+IPL Match Data Analysis (Python)
 
-Role:
-Authentication and User Management
+Performed exploratory analysis on IPL datasets.
 
-Technologies used:
+Key work:
 
-* Node.js
-* MongoDB
-* JWT
-
-Responsibilities:
-
-* Implemented login and session management
-* Integrated authentication workflows with database storage
-* Developed role-based access control for user data protection
-
----
-
-## Goals
-
-* Build strong real-world analytics projects
-* Strengthen Python and SQL for data analysis
-* Develop expertise in Business Intelligence tools
-* Prepare for Data Analyst and BI roles
-
----
-
-## Connect With Me
+Data analysis using Pandas and NumPy
+Built visualizations for match insights
+Extracted team and player-level trends
+Goals
+Build strong real-world analytics and machine learning projects
+Strengthen Python and SQL for advanced data analysis
+Develop expertise in Business Intelligence tools
+Prepare for Data Analyst / BI roles
+Connect With Me
 
 LinkedIn
 https://www.linkedin.com/in/bhanu-bikkanuri-a52721394/
